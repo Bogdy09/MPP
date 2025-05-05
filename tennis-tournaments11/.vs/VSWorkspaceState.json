@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\tennis-tournaments",
+    "\\tennis-tournaments\\src",
+    "\\tennis-tournaments\\src\\context",
+    "\\tennis-tournaments\\src\\models",
+    "\\tennis-tournaments\\src\\pages",
+    "\\tennis-tournaments\\src\\routes",
+    "\\tennis-tournaments\\src\\utils",
+    "\\tennis-tournaments\\src\\__tests__",
+    "\\tennis-tournaments\\uploads"
+  ],
+  "SelectedNode": "\\tennis-tournaments\\server.js",
+  "PreviewInSolutionExplorer": false
+}
